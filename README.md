@@ -1,5 +1,5 @@
 ## Hello, this is CIS3515 Git-started
 
-### Please enter your tuu06258
+### Please enter your jkrajeski
 
-### and tuu06258@temple.edu
+### and tut51672@temple.edu
